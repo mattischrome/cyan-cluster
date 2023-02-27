@@ -1,0 +1,8 @@
+---
+import Card from "./Card.astro";
+import data from "./json_data_v2.json";
+const indicators = {data};
+---
+<div class="card-grid">
+{data.map((card) => <Card title={card.shortname} icon={card.icon} description={card.byline} />)}
+</div>

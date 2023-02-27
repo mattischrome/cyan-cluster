@@ -1,0 +1,550 @@
+[
+  {
+    "id": 1,
+    "data": [
+      {
+        "icon": "icons/card-01-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cardiovascular",
+        "byline": "Under 75 mortality rate - cardiovascular disease considered preventable",
+        "submeasure": "Maximise uptake of NHS Health Checks",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-01-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cardiovascular",
+        "byline": "Under 75 mortality rate - cardiovascular disease considered preventable",
+        "submeasure": "Diagnosis and management of hypertension within primary care",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-01-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cardiovascular",
+        "byline": "Under 75 mortality rate - cardiovascular disease considered preventable",
+        "submeasure": "Recording of blood pressure amongst higher risk groups including people with diabetes and following a stroke",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "data": [
+      {
+        "icon": "icons/card-02-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Respiratory",
+        "byline": "Under 75 mortality rate - respiratory disease considered preventable",
+        "submeasure": "Smoking cessation support and treatment offered to patients",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-02-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Respiratory",
+        "byline": "Under 75 mortality rate - respiratory disease considered preventable",
+        "submeasure": "Take up of COVID, flu and pneumococcal jabs",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-02-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Respiratory",
+        "byline": "Under 75 mortality rate - respiratory disease considered preventable",
+        "submeasure": "Patients with COPD or asthma who had a review in the last 12 months",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-02-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Respiratory",
+        "byline": "Under 75 mortality rate - respiratory disease considered preventable",
+        "submeasure": "Patients with COPD and dyspnoea scale >=3 (in last 12 months) with record of an offer of referral to a pulmonary rehab.",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-02-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Respiratory",
+        "byline": "Under 75 mortality rate - respiratory disease considered preventable",
+        "submeasure": "Emergency admissions for COPD, asthma or pneumonia",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "data": [
+      {
+        "icon": "icons/card-03-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Severe Mental Illness",
+        "byline": "Excess Under 75 mortality rate in adults with severe mental illness (SMI)",
+        "submeasure": "Employment of people with mental illness",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-03-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Severe Mental Illness",
+        "byline": "Excess Under 75 mortality rate in adults with severe mental illness (SMI)",
+        "submeasure": "Adults (contact with sec. services) in stable and appropriate accomodation",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-03-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Severe Mental Illness",
+        "byline": "Excess Under 75 mortality rate in adults with severe mental illness (SMI)",
+        "submeasure": "Uptake of SMI Health Checks",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-03-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Severe Mental Illness",
+        "byline": "Excess Under 75 mortality rate in adults with severe mental illness (SMI)",
+        "submeasure": "Record of blood pressure check in last 12 months?",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-03-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Severe Mental Illness",
+        "byline": "Excess Under 75 mortality rate in adults with severe mental illness (SMI)",
+        "submeasure": "Smoking cessation offered",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-03-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Severe Mental Illness",
+        "byline": "Excess Under 75 mortality rate in adults with severe mental illness (SMI)",
+        "submeasure": "Attended contacts - community and outpatient mental health services, per 100,000",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "data": [
+      {
+        "icon": "icons/card-04-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cancer",
+        "byline": "Proportion of people with cancer diagnosed (at stage 1 or 2)",
+        "submeasure": "Overall adult smoking prevalence rate",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-04-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cancer",
+        "byline": "Proportion of people with cancer diagnosed (at stage 1 or 2)",
+        "submeasure": "HPV coverage",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-04-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cancer",
+        "byline": "Proportion of people with cancer diagnosed (at stage 1 or 2)",
+        "submeasure": "Cancer screening coverage: cervical, bowel, breast. Lung checks.",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-04-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cancer",
+        "byline": "Proportion of people with cancer diagnosed (at stage 1 or 2)",
+        "submeasure": "Two Week Wait - GP Urgent Referral to First Consultant Appointment",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-04-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Cancer",
+        "byline": "Proportion of people with cancer diagnosed (at stage 1 or 2)",
+        "submeasure": "Treatment starting within 62 days where confirmed",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "data": [
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "Obesity rates",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "Weight management programmes",
+        "submeasure_status": "provisional"
+      },
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "Diabetes Prevention Programme",
+        "submeasure_status": "provisional"
+      },
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "Diabetic Retinopathy Screening",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "Access to real time monitoring, glucose monitoring / insulin pumps",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "% Type 1 with CGM/insulin pumps",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "Management of diabetes in primary care (QOF measures) % Type 2 annual checks",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-05-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Diabetes",
+        "byline": "Tackling diabetes - measures from primary and secondary prevention to management",
+        "submeasure": "Reduction in amputation and preventable sight loss",
+        "submeasure_status": "provisional"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "data": [
+      {
+        "icon": "icons/card-06-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Care & Support",
+        "byline": "Proportion of people feeling supported to manage their long term condition",
+        "submeasure": "Percentage of older people (aged 65 and older) who were offered rehabilitation following discharge and percentage still at home 91 days after discharge into rehab.",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-06-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Care & Support",
+        "byline": "Proportion of people feeling supported to manage their long term condition",
+        "submeasure": "Referrals to Social Prescribing Link Workers",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-06-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Care & Support",
+        "byline": "Proportion of people feeling supported to manage their long term condition",
+        "submeasure": "Number of Personalised and Support Plans",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "data": [
+      {
+        "icon": "icons/card-07-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Falls",
+        "byline": "Emergency hospital admissions due to falls in people aged 65 or over",
+        "submeasure": "Physical activity and inactivity rates of adults",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-07-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Falls",
+        "byline": "Emergency hospital admissions due to falls in people aged 65 or over",
+        "submeasure": "Evidence based falls prevention",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-07-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Falls",
+        "byline": "Emergency hospital admissions due to falls in people aged 65 or over",
+        "submeasure": "Identification of fragility fractures",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-07-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Falls",
+        "byline": "Emergency hospital admissions due to falls in people aged 65 or over",
+        "submeasure": "Assessment, treatment, and management of osteoporosis",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-07-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Falls",
+        "byline": "Emergency hospital admissions due to falls in people aged 65 or over",
+        "submeasure": "Discharge home following hip fracture",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-07-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Falls",
+        "byline": "Emergency hospital admissions due to falls in people aged 65 or over",
+        "submeasure": "Recovery of condition within 30 and 120 days",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-07-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Falls",
+        "byline": "Emergency hospital admissions due to falls in people aged 65 or over",
+        "submeasure": "Readmission following hip replacement",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "data": [
+      {
+        "icon": "icons/card-08-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Alcohol",
+        "byline": "Admission episodes for alcohol-specific conditions",
+        "submeasure": "Percentage of adults drinking over 14 units of alcohol a week",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-08-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Alcohol",
+        "byline": "Admission episodes for alcohol-specific conditions",
+        "submeasure": "Early intervention measure",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-08-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Alcohol",
+        "byline": "Admission episodes for alcohol-specific conditions",
+        "submeasure": "Percentage of people waiting >3 weeks for treatment",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-08-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Alcohol",
+        "byline": "Admission episodes for alcohol-specific conditions",
+        "submeasure": "Successful completion of treatment",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "data": [
+      {
+        "icon": "icons/card-09-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Maternity",
+        "byline": "Still birth rate, neonatal deaths, maternal deaths",
+        "submeasure": "Preterm birth rate",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-09-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Maternity",
+        "byline": "Still birth rate, neonatal deaths, maternal deaths",
+        "submeasure": "Admission of full-term babies to neonatal care",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-09-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Maternity",
+        "byline": "Still birth rate, neonatal deaths, maternal deaths",
+        "submeasure": "Smoking at time of delivery (and at booking)",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-09-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Maternity",
+        "byline": "Still birth rate, neonatal deaths, maternal deaths",
+        "submeasure": "Breastfeeding (full/partial 6-8 weeks, first milk)",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-09-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Maternity",
+        "byline": "Still birth rate, neonatal deaths, maternal deaths",
+        "submeasure": "No continuity of care at 28 weeks (% remaining)",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-09-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Maternity",
+        "byline": "Still birth rate, neonatal deaths, maternal deaths",
+        "submeasure": "Women's experience of maternity services",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "data": [
+      {
+        "icon": "icons/card-10-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Asthma",
+        "byline": "Hospital admissions for asthma (under 19 years)",
+        "submeasure": "Patients with Asthma (6-19 years): Second-hand smoking status recorded in the last 12 months",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-10-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Asthma",
+        "byline": "Hospital admissions for asthma (under 19 years)",
+        "submeasure": "Reduction in reliance on reliever medications and reduction in attacks",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-10-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Asthma",
+        "byline": "Hospital admissions for asthma (under 19 years)",
+        "submeasure": "Decrease the number of asthma attacks.",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-10-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Asthma",
+        "byline": "Hospital admissions for asthma (under 19 years)",
+        "submeasure": "Emergency admissions for asthma (0-19 years)",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "data": [
+      {
+        "icon": "icons/card-11-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "CYP Mental Health",
+        "byline": "Access rates to children and young people's mental health services for 0-17 years",
+        "submeasure": "Core CAMHS waiting times (referral, and treatment)",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-11-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "CYP Mental Health",
+        "byline": "Access rates to children and young people's mental health services for 0-17 years",
+        "submeasure": "CYP with eating disorders waiting times (Routine and urgent)",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-11-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "CYP Mental Health",
+        "byline": "Access rates to children and young people's mental health services for 0-17 years",
+        "submeasure": "Percentage of CYP referred and seen within 6 weeks",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-11-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "CYP Mental Health",
+        "byline": "Access rates to children and young people's mental health services for 0-17 years",
+        "submeasure": "Emergency referrals reviewed and responded within 2 hours",
+        "submeasure_status": "firm"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "data": [
+      {
+        "icon": "icons/card-12-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Inclusive Elective",
+        "byline": "Inclusive Elective Measures",
+        "submeasure": "Reduction in people waiting over 78 weeks and 52 weeks",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-12-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Inclusive Elective",
+        "byline": "Inclusive Elective Measures",
+        "submeasure": "Reduction in Do Not Attend rates",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-12-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Inclusive Elective",
+        "byline": "Inclusive Elective Measures",
+        "submeasure": "Increase in SDM as part of pathway",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-12-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Inclusive Elective",
+        "byline": "Inclusive Elective Measures",
+        "submeasure": "Reduction in readmission rates and length of stay in outlying specialties",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-12-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Inclusive Elective",
+        "byline": "Inclusive Elective Measures",
+        "submeasure": "Evidence based interventions - compliance with national and local evidence based thresholds for treatment and care",
+        "submeasure_status": "firm"
+      },
+      {
+        "icon": "icons/card-12-icon.png",
+        "colour": "#aeaeae",
+        "shortname": "Inclusive Elective",
+        "byline": "Inclusive Elective Measures",
+        "submeasure": "Inmproved access to diagnostics (poss segmented DM01)",
+        "submeasure_status": "firm"
+      }
+    ]
+  }
+]
